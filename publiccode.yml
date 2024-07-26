@@ -2,7 +2,7 @@
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/publiccodeyml/publiccode.yml
 
-publiccodeYmlVersion: '0.3'
+publiccodeYmlVersion: '0.4'
 categories:
   - data-analytics
   - data-collection
@@ -51,7 +51,7 @@ localisation:
     - es
     - de
   localisationReady: true
-logo: 'https://plausible.io/assets/images/icon/plausible_logo.compressed.png'
+logo: 'https://raw.githubusercontent.com/italia-software/plausible/main/plausible_logo.compressed.png'
 maintenance:
   contacts:
     - name: Uku Täht
